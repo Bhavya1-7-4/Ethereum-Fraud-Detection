@@ -1,4 +1,4 @@
-Description:
+#Description:
 Utilizes machine learning algorithms (Decision Tree, Random Forest, Logistic Regression, and XGBoost) to detect fraud in Ethereum transactions. Implemented in Google Colab, this project aids in identifying potentially fraudulent activities in the Ethereum network.
 
 Table of Contents:
